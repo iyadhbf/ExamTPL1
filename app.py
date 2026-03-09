@@ -5,4 +5,5 @@ print(sum(data))
 print("somme: ", sum(data))
 print("moyenne: ", sum(data)/len(data))
 print("max: ", max(data))
-
+print("min: ", min(data))
+print("aa")
